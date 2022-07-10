@@ -6,7 +6,7 @@ module.exports = function(app) {
         .get(exchangeController.fetchTicker)
         .post(exchangeController.fetchTicker);
 
-    app.route('/fetchTicker/:token1/:token2')
+    app.route('/fetchTicker/:ex/:token1/:token2')
         .get(exchangeController.fetchTicker)
         .post(exchangeController.fetchTicker);
 
