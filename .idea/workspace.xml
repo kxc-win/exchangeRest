@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dda04ddc-8707-47f7-8571-cc9a52cde656" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exchangerest/api/controllers/exchangeController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exchangerest/api/controllers/todoListController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exchangerest/api/models/todoListModel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exchangerest/api/routes/exchangeRoutes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exchangerest/api/routes/todoListRoutes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exchangerest/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exchangerest/server.js" afterDir="false" />
-    </list>
+    <list default="true" id="dda04ddc-8707-47f7-8571-cc9a52cde656" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +55,9 @@
       <recent name="C:\work\projects\exchangeRest\exchangerest\api\controllers" />
       <recent name="C:\work\projects\exchangeRest\exchangerest\api\routes" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\work\projects\exchangeRest" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -85,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657452106645</updated>
-      <workItem from="1657452107912" duration="4120000" />
+      <workItem from="1657452107912" duration="4517000" />
     </task>
     <servers />
   </component>
